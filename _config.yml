@@ -1,6 +1,0 @@
-name: Chance's Website
-markdown: kramdown
-
-permalink: /projects/:year/:month/:day/:title
-
-theme: jekyll-theme-minimal
